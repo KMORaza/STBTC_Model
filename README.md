@@ -1,4 +1,4 @@
-### Modell der thermohalinen Stommel-Zwei-Box-Zirkulation, geschrieben in JavaFX (Model of Stommel Two-Box Thermohaline Circulation, written in JavaFX)
+### Modell der thermohalinen Stommel-Zwei-Box-Zirkulation, geschrieben in JavaFX (Model of Stommel's Two-Box Thermohaline Circulation, written in JavaFX)
 
 * Simulates thermohaline circulation by modeling the interaction between temperature difference (T) and salinity difference (S) between two ocean boxes such as a polar and an equatorial box.
 * The circulation strength, represented by the flow rate q, is driven by density differences caused by thermal and saline expansion. The model incorporates stochastic forcing (noise) and uses numerical integration to evolve the system over time.
